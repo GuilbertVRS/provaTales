@@ -13,7 +13,9 @@ public class Piloto {
 	}
 	
 	public Integer getHabilidade() {
+		System.out.println("");
 		return habilidade;
+		
 	}
 	
 	public void setHabilidade(Integer habilidade) {

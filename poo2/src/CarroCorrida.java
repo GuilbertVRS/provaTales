@@ -8,8 +8,8 @@ public class CarroCorrida {
 	
 	//Estado - Atributos - variáveis
 	private Integer numeroIdentificacao;
-	private Double velocidadeAtual;
-	private Double velocidadeMaxima; 
+	private Double velocidadeAtual = 0.0;
+	private Double velocidadeMaxima = 100.0; 
 	private Piloto piloto;
 	
 	//Comportamento - Métodos
