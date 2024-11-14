@@ -1,3 +1,4 @@
+package poo2;
 
 public class Piloto {
 	private String nome;
